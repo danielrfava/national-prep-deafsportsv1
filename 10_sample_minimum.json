@@ -1,0 +1,42 @@
+
+{
+  "games": [
+    {
+      "id": "2026-01-16_msd_mssd_clerc_sf",
+      "date": "2026-01-16",
+      "level": "Varsity",
+      "gender": "Boys",
+      "competition": "Clerc Classic",
+      "round": "Semifinal",
+      "neutral_site": true,
+      "home_id": "msd",
+      "away_id": "mssd",
+      "home_score": 44,
+      "away_score": 42,
+      "sources": ["turn154search979", "turn153search922", "turn153search950"]
+    },
+    {
+      "id": "2026-01-17_msd_csdr_clerc_final",
+      "date": "2026-01-17",
+      "level": "Varsity",
+      "gender": "Boys",
+      "competition": "Clerc Classic",
+      "round": "Final",
+      "neutral_site": true,
+      "home_id": "msd",
+      "away_id": "csdr",
+      "home_score": 37,
+      "away_score": 36,
+      "sources": ["turn154search979", "turn153search922", "turn153search950"]
+    }
+  ],
+  "season_summaries": [
+    {
+      "school_id": "msd",
+      "season": "2025-2026",
+      "level": "Varsity",
+      "gender": "Boys",
+      "note": "Clerc XXIV champions; full season details will populate after ingestion."
+    }
+  ]
+}
