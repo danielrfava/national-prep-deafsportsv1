@@ -1,0 +1,19 @@
+
+{
+  "validations": {
+    "game_record": {
+      "required": ["date", "home_id", "away_id", "home_score", "away_score", "level", "gender"],
+      "constraints": {
+        "home_id != away_id": true,
+        "scores_non_negative": true
+      }
+    },
+    "season_summary": {
+      "required": ["school_id", "season", "level", "gender", "wins", "losses"],
+      "constraints": {
+        "wins >= 0": true,
+        "losses >= 0": true
+      }
+    }
+  }
+}
