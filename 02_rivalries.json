@@ -1,0 +1,14 @@
+
+{
+  "rivalries": [
+    {
+      "pair_id": "msd_mssd",
+      "home_id": "msd",
+      "away_id": "mssd",
+      "label": "MSD–MSSD Classic",
+      "status": "historic_rivalry",
+      "notes": "Longstanding rivalry; include regular-season and Clerc meetings.",
+      "deaf_only": true
+    }
+  ]
+}
