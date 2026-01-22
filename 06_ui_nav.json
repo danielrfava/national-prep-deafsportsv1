@@ -1,0 +1,19 @@
+
+{
+  "nav": {
+    "tabs": [
+      {"id": "home", "label": "Home", "route": "/"},
+      {"id": "rankings", "label": "Rankings (Deaf‑Only)", "route": "/rankings/deaf-only"},
+      {"id": "headtohead", "label": "Head‑to‑Head", "route": "/h2h"},
+      {"id": "tournaments", "label": "Clerc Classic", "route": "/tournaments/clerc"},
+      {"id": "teams", "label": "Teams", "route": "/teams"},
+      {"id": "about", "label": "About", "route": "/about"}
+    ],
+    "defaults": {"active_tab": "headtohead"},
+    "routes": {
+      "/rankings/deaf-only": {"component": "RankingsBoard", "props": {"scope": "big6", "gender": "Boys", "level": "Varsity"}},
+      "/h2h": {"component": "HeadToHeadMatrix", "props": {"scope": "big6", "gender": "Boys", "level": "Varsity"}},
+      "/tournaments/clerc": {"component": "ClercAllTimeView", "props": {"scope": "big6"}}
+    }
+  }
+}
