@@ -1,0 +1,28 @@
+{
+  "school_id": "msd",
+  "season": "2012-2013",
+  "level": "Varsity",
+  "gender": "Boys",
+  "division": "Division I",
+  "coach": "",
+  "overall_record": { "wins": 0, "losses": 0 },
+  "league_record": { "wins": 0, "losses": 0, "league_name": "" },
+  "tournaments": [
+    {
+      "name": "Clerc Classic",
+      "placement": "",
+      "notes": "",
+      "games_ids": []
+    }
+  ],
+  "schedule": [],
+  "roster": [],
+  "team_stats": {
+    "points": null, "fgm": null, "fga": null, "fg_pct": null,
+    "tpm": null, "tpa": null, "tp_pct": null,
+    "ftm": null, "fta": null, "ft_pct": null,
+    "oreb": null, "dreb": null, "reb": null,
+    "ast": null, "stl": null, "blk": null, "tov": null, "pf": null
+  },
+  "players_stats": []
+}
