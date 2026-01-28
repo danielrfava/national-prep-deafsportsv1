@@ -1,0 +1,59 @@
+{
+  "as_of": "2025-12",
+  "clerc_records_boys": {
+    "points": {
+      "individual_game": { "value": 42, "player": "Dedrick Simpson", "school_name": "South Carolina", "year": 2010 },
+      "team_game":       { "value": 95, "team_name": "Indiana", "year": 2004 },
+      "individual_3_games": { "value": 81, "player": "Michael Lizarraga", "school_name": "Fremont", "year": 2007 },
+      "team_3_games":       { "value": 237, "team_name": "Maryland", "year": 2018 }
+    },
+    "three_pointers_made": {
+      "individual_game": [
+        { "value": 6, "player": "Kyle Bingham",   "school_name": "Indiana",  "year": 2012 },
+        { "value": 6, "player": "Chris Carson",   "school_name": "Alabama",  "year": 2011 },
+        { "value": 6, "player": "Tyler Crace",    "school_name": "Indiana",  "year": 2009 },
+        { "value": 6, "player": "Luis Estrella",  "school_name": "Riverside","year": 2010 },
+        { "value": 6, "player": "Rory Lewis",     "school_name": "Maryland", "year": 2018 },
+        { "value": 6, "player": "Michael Lizarraga","school_name": "Fremont","year": 2003 },
+        { "value": 6, "player": "Wilford Troup",  "school_name": "Model",    "year": 2016 }
+      ],
+      "team_game":        { "value": 12, "team_name": "Maryland", "year": 2018 },
+      "individual_3_games": { "value": 13, "player": "Wilford Troup", "school_name": "Model", "year": 2016 },
+      "team_3_games":       { "value": 29, "team_name": "Maryland", "year": 2018 }
+    },
+    "rebounds": {
+      "individual_game":  { "value": 21, "player": "Teddy Eveland", "school_name": "Model", "year": 2006 },
+      "team_game":        { "value": 52, "team_name": "Maryland",   "year": 2020 },
+      "individual_3_games": [
+        { "value": 43, "player": "Teddy Eveland",  "school_name": "Model",   "year": 2004 },
+        { "value": 43, "player": "Allen Rosales",  "school_name": "Florida", "year": 2020 }
+      ],
+      "team_3_games":     { "value": 118, "team_name": "Model", "year": 2006 }
+    },
+    "assists": {
+      "individual_game":  { "value": 13, "player": "Gabriel Trujillo", "school_name": "Texas", "year": 2010 },
+      "team_game":        { "value": 22, "team_name": "Texas",         "year": 2010 },
+      "individual_3_games": [
+        { "value": 22, "player": "Demetric Snider",  "school_name": "Alabama", "year": 2011 },
+        { "value": 22, "player": "Gabriel Trujillo", "school_name": "Texas",   "year": 2010 }
+      ],
+      "team_3_games":     { "value": 48, "team_name": "Maryland", "year": 2020 }
+    },
+    "steals": {
+      "individual_game": [
+        { "value": 8, "player": "Jamal Shaw",     "school_name": "South Carolina", "year": 2004 },
+        { "value": 8, "player": "Felix Gonzales", "school_name": "Riverside",       "year": 2020 }
+      ],
+      "team_game":        { "value": 32, "team_name": "South Carolina", "year": 2004 },
+      "individual_3_games": { "value": 19, "player": "Gio Visco", "school_name": "Riverside", "year": 2026 },
+      "team_3_games":       { "value": 48, "team_name": "South Carolina", "year": 2004 }
+    },
+    "blocks": {
+      "individual_game":  { "value": 11, "player": "Andrew Ray Taylor", "school_name": "American", "year": 2018 },
+      "team_game":        { "value": 14, "team_name": "American",        "year": 2018 },
+      "individual_3_games": { "value": 24, "player": "Andrew Ray Taylor", "school_name": "American", "year": 2018 },
+      "team_3_games":       { "value": 31, "team_name": "American",        "year": 2018 }
+    }
+  },
+  "notes": "Boys-only entries extracted from user-provided list; girls records intentionally omitted at user's request."
+}
