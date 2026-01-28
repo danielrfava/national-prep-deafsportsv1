@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "tabs": [
+      { "id": "headtohead", "label": "Head to Head", "route": "/" },
+      { "id": "rankings", "label": "Rankings (Deaf Only)", "route": "/rankings" },
+      { "id": "tournaments", "label": "Clerc Classic", "route": "/clerc" },
+      { "id": "teams", "label": "Teams", "route": "/teams" },
+      { "id": "players", "label": "Players", "route": "/players" },
+      { "id": "about", "label": "About", "route": "/about" }
+    ],
+    "defaults": { "active_tab": "headtohead" }
+  }
+}
