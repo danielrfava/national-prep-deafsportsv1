@@ -1,0 +1,18 @@
+{
+  "fields": {
+    "season_format": "YYYY-YYYY (e.g., 2012-2013)",
+    "school_id": "One of: csdf, csdr, msd, mssd, tsd, isd",
+    "level": "Varsity only (for this project)",
+    "gender": "Boys",
+    "division": "Division I (Big-6)",
+    "competition": "Regular | Tournament name (e.g., 'Clerc Classic')",
+    "round": "Quarterfinal | Semifinal | Final | 3rd Place | Consolation | or null",
+    "neutral_site": "true/false",
+    "tags": "Array; include 'deaf_only' for Deaf vs Deaf opponents"
+  },
+  "notes": [
+    "Use the season_template.json to create one file per season: data/seasons/{school}_{season}.json",
+    "Place standalone game JSONs in data/games/ if you prefer game-level storage; otherwise keep them inside season.schedule[]",
+    "Do not mix JV data—Varsity boys only in this phase",
+    "Keep numeric fields as numbers (not strings); use null for unknown"
+  ]
