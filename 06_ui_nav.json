@@ -1,12 +1,42 @@
 {
   "nav": {
     "tabs": [
-      { "id": "headtohead", "label": "Head to Head", "route": "/" },
-      { "id": "rankings", "label": "Rankings (Deaf Only)", "route": "/rankings" },
-      { "id": "tournaments", "label": "Clerc Classic", "route": "/clerc" },
-      { "id": "teams", "label": "Teams", "route": "/teams" },
-      { "id": "players", "label": "Players", "route": "/players" },
-      { "id": "about", "label": "About", "route": "/about" }
+      {
+        "id": "headtohead",
+        "label": "Head to Head",
+        "route": "/"
+      },
+      {
+        "id": "rankings",
+        "label": "Rankings (Deaf Only)",
+        "route": "/rankings"
+      },
+      {
+        "id": "tournaments",
+        "label": "Tournaments",
+        "route": "/tournaments",
+        "submenu": [
+          { "id": "clerc", "label": "Clerc Classic", "route": "/clerc" },
+          { "id": "gpsd",  "label": "GPSD (Regional)", "route": "/tournaments/gpsd" },
+          { "id": "esdaa", "label": "ESDAA (Regional)", "route": "/tournaments/esdaa" },
+          { "id": "cssd",  "label": "CSSD / CSAD (Regional)", "route": "/tournaments/cssd" }
+        ]
+      },
+      {
+        "id": "teams",
+        "label": "Teams",
+        "route": "/teams"
+      },
+      {
+        "id": "players",
+        "label": "Players",
+        "route": "/players"
+      },
+      {
+        "id": "about",
+        "label": "About",
+        "route": "/about"
+      }
     ],
     "defaults": { "active_tab": "headtohead" }
   }
