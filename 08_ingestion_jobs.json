@@ -1,0 +1,61 @@
+{
+  "ingestion": {
+    "schedule": "on_demand",
+    "jobs": [
+      {
+        "id": "msd_boys_varsity_2008_present",
+        "school_id": "msd",
+        "level": "Varsity",
+        "gender": "Boys",
+        "years": { "from": "2008-2009", "to": "present" },
+        "sources": [{ "type": "manual_json_from_bulk" }],
+        "status": "ready"
+      },
+      {
+        "id": "csdr_boys_varsity_2008_present",
+        "school_id": "csdr",
+        "level": "Varsity",
+        "gender": "Boys",
+        "years": { "from": "2008-2009", "to": "present" },
+        "sources": [{ "type": "manual_json_from_bulk" }],
+        "status": "ready"
+      },
+      {
+        "id": "csdf_boys_varsity_2008_present",
+        "school_id": "csdf",
+        "level": "Varsity",
+        "gender": "Boys",
+        "years": { "from": "2008-2009", "to": "present" },
+        "sources": [{ "type": "manual_json_from_bulk" }],
+        "status": "ready"
+      },
+      {
+        "id": "mssd_boys_varsity_2008_present",
+        "school_id": "mssd",
+        "level": "Varsity",
+        "gender": "Boys",
+        "years": { "from": "2008-2009", "to": "present" },
+        "sources": [{ "type": "manual_json_from_bulk" }],
+        "status": "ready"
+      },
+      {
+        "id": "tsd_boys_varsity_2008_present",
+        "school_id": "tsd",
+        "level": "Varsity",
+        "gender": "Boys",
+        "years": { "from": "2008-2009", "to": "present" },
+        "sources": [{ "type": "manual_json_from_bulk" }],
+        "status": "ready"
+      },
+      {
+        "id": "isd_boys_varsity_2008_present",
+        "school_id": "isd",
+        "level": "Varsity",
+        "gender": "Boys",
+        "years": { "from": "2008-2009", "to": "present" },
+        "sources": [{ "type": "manual_json_from_bulk" }],
+        "status": "ready"
+      }
+    ]
+  }
+}
