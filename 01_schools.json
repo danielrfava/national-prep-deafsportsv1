@@ -1,0 +1,53 @@
+{
+  "schools_set_id": "big6",
+  "schools": [
+    {
+      "id": "csdf",
+      "display_name": "California School for the Deaf – Fremont",
+      "short_name": "CSD Fremont",
+      "state": "CA",
+      "program_tier": "Division I",
+      "aliases": ["CSD-F", "Fremont"]
+    },
+    {
+      "id": "csdr",
+      "display_name": "California School for the Deaf – Riverside",
+      "short_name": "CSD Riverside",
+      "state": "CA",
+      "program_tier": "Division I",
+      "aliases": ["CSD-R", "Riverside"]
+    },
+    {
+      "id": "msd",
+      "display_name": "Maryland School for the Deaf",
+      "short_name": "MSD",
+      "state": "MD",
+      "program_tier": "Division I",
+      "aliases": ["Maryland"]
+    },
+    {
+      "id": "mssd",
+      "display_name": "Model Secondary School for the Deaf",
+      "short_name": "MSSD",
+      "state": "DC",
+      "program_tier": "Division I",
+      "aliases": ["Model"]
+    },
+    {
+      "id": "tsd",
+      "display_name": "Texas School for the Deaf",
+      "short_name": "TSD",
+      "state": "TX",
+      "program_tier": "Division I",
+      "aliases": ["Texas"]
+    },
+    {
+      "id": "isd",
+      "display_name": "Indiana School for the Deaf",
+      "short_name": "ISD",
+      "state": "IN",
+      "program_tier": "Division I",
+      "aliases": ["Indiana"]
+    }
+  ]
+}
