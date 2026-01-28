@@ -1,0 +1,18 @@
+{
+  "school_id": "msd",
+  "season": "2012-2013",
+  "player_id": "msd_2013_shupe_a",
+  "player_name": "First Last",
+  "grade": "Sr",
+  "gp": null,
+  "mp": null,
+  "pts": null,
+  "ppg": null,
+  "fgm": null, "fga": null, "fg_pct": null,
+  "tpm": null, "tpa": null, "tp_pct": null,
+  "ftm": null, "fta": null, "ft_pct": null,
+  "oreb": null, "dreb": null, "reb": null, "rpg": null,
+  "apg": null, "spg": null, "bpg": null,
+  "tov": null, "pf": null,
+  "per32": { "pts": null, "reb": null, "ast": null, "stl": null, "blk": null, "tov": null, "pf": null }
+}
