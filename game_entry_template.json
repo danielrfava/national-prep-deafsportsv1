@@ -1,0 +1,21 @@
+{
+  "id": "2013-01-15_msd_mssd_reg",
+  "date": "2013-01-15",
+  "level": "Varsity",
+  "gender": "Boys",
+  "competition": "Regular",
+  "round": null,
+  "neutral_site": false,
+  "home_id": "msd",
+  "away_id": "mssd",
+  "home_score": 0,
+  "away_score": 0,
+  "location": "Kent-McCanner Gym",
+  "sources": [],
+  "box": {
+    "quarter_scores": null,
+    "overtime": 0
+  },
+  "tags": ["deaf_only"],
+  "notes": ""
+}
