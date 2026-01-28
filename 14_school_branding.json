@@ -1,0 +1,10 @@
+{
+  "branding": {
+    "csdf": { "primary": "#f15a24", "secondary": "#1a1a1a", "text_on_primary": "#ffffff" },
+    "csdr": { "primary": "#cf1126", "secondary": "#fdb827", "text_on_primary": "#ffffff" },
+    "msd":  { "primary": "#ff7f00", "secondary": "#000000", "text_on_primary": "#000000" },
+    "mssd": { "primary": "#fdb827", "secondary": "#990000", "text_on_primary": "#001018" },
+    "tsd":  { "primary": "#009f4d", "secondary": "#fdb827", "text_on_primary": "#001018" },
+    "isd":  { "primary": "#c8102e", "secondary": "#000000", "text_on_primary": "#ffffff" }
+  }
+}
