@@ -107,11 +107,10 @@ export default function Clerc({ cfg, sub, champions, recs, recsAsOf }) {
         {view === 'tourney_records_boys' && (
           <div className="card">
             <b>Clerc Classic — Tournament Records (Boys)</b>
-            <p style={{ color: 'var(--muted)' }}>As of {recsAsOf}</p>
-            {/* Add your record table rendering here */}
+            <p style={{ color: 'var(--muted)' }}>As of {recsAsOf || 'latest provided'}</p>
+            {/* Render detailed records here (you already have the JSON) */}
           </div>
         )}
-
       </div>
     </>
   );
