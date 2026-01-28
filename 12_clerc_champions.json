@@ -1,0 +1,30 @@
+{
+  "clerc_champions_boys": [
+    { "year": 2000, "champion": "Phoenix Day", "coach": "David Hamilton", "second": "Lexington", "third": "South Carolina", "host": "Washington, D.C." },
+    { "year": 2001, "champion": "Model", "coach": "Mike Weinstock", "second": "Arizona", "third": "Lexington", "host": "Washington, D.C." },
+    { "year": 2002, "champion": "Model", "coach": "Mike Weinstock", "second": "Indiana", "third": "Maryland", "host": "Fremont, CA" },
+    { "year": 2003, "champion": "Indiana", "coach": "Keith Westhoelter", "second": "Illinois", "third": "Maryland", "host": "Indianapolis, IN" },
+    { "year": 2004, "champion": "Indiana", "coach": "Keith Westhoelter", "second": "Maryland", "third": "South Carolina", "host": "Frederick, MD" },
+    { "year": 2006, "champion": "Fremont", "coach": "Oskar Schugg", "second": "Maryland", "third": "Model", "host": "Riverside, CA" },
+    { "year": 2007, "champion": "Maryland", "coach": "Vance Rewolinski", "second": "Minnesota", "third": "Fremont", "host": "Washington, D.C." },
+    { "year": 2008, "champion": "Indiana", "coach": "Rusty Crace", "second": "Maryland", "third": "Model", "host": "Faribault, MN" },
+    { "year": 2009, "champion": "Indiana", "coach": "Rusty Crace", "second": "Maryland", "third": "Fremont", "host": "Frederick, MD" },
+    { "year": 2010, "champion": "Maryland", "coach": "James Destefano", "second": "Indiana", "third": "Texas", "host": "Fremont, CA" },
+    { "year": 2011, "champion": "Maryland", "coach": "James Destefano", "second": "Alabama", "third": "Fremont", "host": "Austin, TX" },
+    { "year": 2012, "champion": "Fremont", "coach": "Reyes Ribera", "second": "Maryland", "third": "Indiana", "host": "Indianapolis, IN" },
+    { "year": 2013, "champion": "Indiana", "coach": "Keith Westhoelter", "second": "Riverside", "third": "Fremont", "host": "Riverside, CA" },
+    { "year": 2014, "champion": "Fremont", "coach": "Kevin Kovacs", "second": "Indiana", "third": "Maryland", "host": "Indianapolis, IN" },
+    { "year": 2015, "champion": "Indiana", "coach": "Keith Westhoelter", "second": "Maryland", "third": "Fremont", "host": "Fremont, CA" },
+    { "year": 2016, "champion": "Maryland", "coach": "James Destefano", "second": "Indiana", "third": "Texas", "host": "Frederick, MD" },
+    { "year": 2017, "champion": "Indiana", "coach": "Keith Westhoelter", "second": "Fremont", "third": "Maryland", "host": "Austin, TX" },
+    { "year": 2018, "champion": "Maryland", "coach": "James Destefano", "second": "Indiana", "third": "Texas", "host": "Washington, D.C." },
+    { "year": 2019, "champion": "Maryland", "coach": "James DeStefano", "second": "Indiana", "third": "Model", "host": "Riverside, CA" },
+    { "year": 2020, "champion": "Maryland", "coach": "James DeStefano", "second": "Model", "third": "Texas", "host": "Indianapolis, IN" },
+    { "year": 2021, "champion": null, "coach": null, "second": null, "third": null, "host": null, "notes": "No tournament – COVID‑19" },
+    { "year": 2022, "champion": null, "coach": null, "second": null, "third": null, "host": null, "notes": "No tournament – COVID‑19" },
+    { "year": 2023, "champion": "Riverside", "coach": "Jeremias Valencia", "second": "Maryland", "third": "Model", "host": "Fremont, CA" },
+    { "year": 2024, "champion": "Maryland", "coach": "James Steingieser", "second": "Model", "third": "Indiana", "host": "Frederick, MD" },
+    { "year": 2025, "champion": "Maryland", "coach": "James Steingieser", "second": "Riverside", "third": "Model", "host": "Austin, TX" },
+    { "year": 2026, "champion": "Maryland", "coach": "Jeremias Valencia", "second": "Riverside", "third": "Model", "host": "St. Augustine, FL" }
+  ]
+}
