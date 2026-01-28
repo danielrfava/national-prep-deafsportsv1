@@ -1,0 +1,12 @@
+{
+  "clercc_nav": {
+    "tabs": [
+      { "id": "records",   "label": "All-Time Records", "view": "records" },
+      { "id": "champions", "label": "Champions by Year", "view": "champions" },
+      { "id": "brackets",  "label": "Brackets & Results", "view": "brackets" },
+      { "id": "awards",    "label": "Awards (MOP/All-Tournament)", "view": "awards" },
+      { "id": "teams",     "label": "Teams & Appearances", "view": "teams" }
+    ],
+    "default_view": "records"
+  }
+}
