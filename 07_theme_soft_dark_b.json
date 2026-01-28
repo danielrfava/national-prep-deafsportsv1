@@ -1,0 +1,20 @@
+{
+  "theme_id": "soft_dark_b",
+  "tokens": {
+    "bg": "#0f1115",
+    "surface": "#151821",
+    "surface2": "#1d2230",
+    "text": "#f2f4f8",
+    "text_muted": "#a8b0c3",
+    "primary": "#5cc8ff",
+    "accent": "#74f0a8",
+    "warn": "#ffb454",
+    "danger": "#ff6b6b",
+    "focus_ring": "#9ad1ff"
+  },
+  "a11y": {
+    "min_contrast_ratio": 4.5,
+    "state_colors_distinct": true,
+    "focus_visible": true
+  }
+}
