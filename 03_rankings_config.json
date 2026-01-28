@@ -1,0 +1,29 @@
+{
+  "rankings": {
+    "scope": "deaf_schools_only",
+    "schools_set": "big6",
+    "season_window_default": { "from": "2008-2009", "to": "present" },
+    "weights": {
+      "overall_win_pct": 0.4,
+      "big6_head_to_head": 0.25,
+      "tournament_weight": 0.2,
+      "sos_background": 0.15
+    },
+    "tournament_includes": ["Clerc Classic"],
+    "tournament_mapping": {
+      "Clerc Classic": {
+        "levels": {
+          "Champion": 1.0,
+          "RunnerUp": 0.75,
+          "Third": 0.6,
+          "Fourth": 0.5,
+          "5th/6th": 0.35,
+          "7th/8th": 0.2
+        }
+      }
+    },
+    "sos": { "method": "opponent_win_pct_adjusted", "deaf_school_boost": 0.1 },
+    "eligibility": { "level": "Varsity", "gender": "Boys", "division": "Division I" }
+  }
+}
+``
